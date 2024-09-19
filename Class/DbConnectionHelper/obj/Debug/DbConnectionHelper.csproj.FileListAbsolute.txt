@@ -1,0 +1,6 @@
+C:\Users\admin\Downloads\Class\DbConnectionHelper\bin\Debug\DbConnectionHelper.dll
+C:\Users\admin\Downloads\Class\DbConnectionHelper\bin\Debug\DbConnectionHelper.pdb
+C:\Users\admin\Downloads\Class\DbConnectionHelper\obj\Debug\DbConnectionHelper.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\Class\DbConnectionHelper\obj\Debug\DbConnectionHelper.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\Class\DbConnectionHelper\obj\Debug\DbConnectionHelper.dll
+C:\Users\admin\Downloads\Class\DbConnectionHelper\obj\Debug\DbConnectionHelper.pdb
